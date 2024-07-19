@@ -1,5 +1,6 @@
 """
 Guess number game, where the computer chooses a number and the user has to guess it.
+Based on "12 Beginner Python Projects - Coding Course" Youtube video
 """
 
 import random
