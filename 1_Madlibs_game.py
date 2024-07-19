@@ -2,7 +2,7 @@
 Mad Libs is a word game where you replace words with different 
 categories (noun, verb, adjective, etc.) to create a 
 funny or nonsensical story.
-Based on "12 Beginner Python Projects - Coding Course" Youtube channel
+Based on "12 Beginner Python Projects - Coding Course" Youtube video
 """
 
 adj = input("Adjective: ")
